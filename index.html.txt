@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Critique des Groupes Facebook Inactifs</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #bbb 1px solid;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+        .main-content {
+            padding: 20px;
+            background: #fff;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .example {
+            background: #eee;
+            border-left: 5px solid #333;
+            padding: 10px;
+            margin: 10px 0;
+        }
+        .contact {
+            background: #dff0d8;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: absolute;
+            width: 100%;
+            bottom: 0;
+        }
+        a {
+            color: #333;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Critique des Groupes Facebook Inactifs</h1>
+        </div>
+    </header>
+    
+    <div class="container main-content">
+        <h2>Introduction</h2>
+        <p>Bienvenue sur notre page dédiée à la critique des groupes Facebook que nous jugeons inactifs et peu utiles. L'objectif ici est d'examiner pourquoi ces groupes, bien qu'ils aient été créés avec des intentions intéressantes, semblent aujourd'hui ne servir qu'à engendrer une activité minimale, souvent limitée à des commentaires non engageants.</p>
+        
+        <h2>Exemples Critiques</h2>
+        <div class="example">
+            <h3>Groupe sur l'Intelligence Artificielle</h3>
+            <p>Ce groupe a pour but d'échanger sur les dernières avancées en IA, mais les discussions y sont rares et souvent interrompues par des commentaires génériques. L'absence de contenu substantiel nuit à l'objectif initial du groupe.</p>
+        </div>
+        
+        <div class="example">
+            <h3>Groupe de Cinéma</h3>
+            <p>Bien que ce groupe soit censé être un espace de discussion pour les amateurs de cinéma, il se limite souvent à des posts de type "J'aime ce film", sans véritable échange ou critique constructive.</p>
+        </div>
+        
+        <div class="example">
+            <h3>Groupe de Biologie</h3>
+            <p>Ce groupe, destiné à partager des découvertes et des discussions sur la biologie, semble plutôt inactif avec des posts peu fréquents et des réponses qui ne stimulent pas de véritables échanges scientifiques.</p>
+        </div>
+        
+        <h2>Pourquoi Cela Est-il un Problème ?</h2>
+        <p>Les groupes Facebook inactifs ou peu engagés contribuent à une dilution des discussions significatives. En créant de tels groupes sans réelle activité, nous contribuons simplement à un espace de discussion non utile qui ne fait qu'ajouter du "CO2 numérique" à l'environnement en ligne. Il est important de se questionner sur la pertinence de maintenir ces groupes en l'état.</p>
+        
+        <h2>Appel à l'Action</h2>
+        <p>Nous encourageons les membres de ces groupes à contacter les administrateurs pour proposer des solutions ou des améliorations. Si vous pensez que ces groupes pourraient être revitalisés, faites-le savoir !</p>
+        
+        <div class="contact">
+            <h3>Contactez les Administrateurs</h3>
+            <p>Pour proposer des améliorations ou exprimer vos préoccupations, veuillez contacter les administrateurs des groupes en question. Vous pouvez généralement trouver un lien de contact sur la page de chaque groupe ou envoyer un message privé aux administrateurs.</p>
+        </div>
+    </div>
+    
+    <footer>
+        <p>&copy; 2024 Critique des Groupes Facebook Inactifs. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
